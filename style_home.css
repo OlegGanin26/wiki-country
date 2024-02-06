@@ -1,0 +1,38 @@
+body {
+    background-image: url(images/home/icegif-460.gif);
+    background-size: cover;
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+#welcoming {
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    font: "Magneto";
+}
+.earth {
+    position: relative;
+    height: 900px;
+    left: 500px;
+    top: 250px;
+}
+.center {
+    object-fit: cover;
+}
+
+#buttons {
+    text-align: center;
+    position: relative;
+}
+.button1 {
+    font-size: larger;
+}
+.button2 {
+    font-size: larger;
+}
+.button3 {
+    font-size: larger;
+}

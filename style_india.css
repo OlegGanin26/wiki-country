@@ -1,0 +1,43 @@
+body {
+    background: no-repeat url(images/india/Taj_Mahal_New_Delhi_India.png);
+    background-size: cover;
+}
+
+#title {
+    background: no-repeat url(images/india/Flag_of_India.png);
+    height: 80px;
+    background-size: 89px;
+    text-align: center;
+    font-size: larger;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    color: chocolate;
+    background-color: aliceblue;
+    font-style: italic;
+}
+
+#flag-gif {
+    display: block;
+    float: right;
+    position: relative;
+}
+
+#photos {
+    display: flex;
+    float: left;
+    position: relative;
+    margin: 2px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#return {
+    text-align: center;
+}
+
+button {
+    font-size: larger;
+}
